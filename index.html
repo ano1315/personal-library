@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+		<div class="header">
+			<div class="navbar">
+
+				<a href="index.html"/>
+					<img src="library.svg" width="50" height="50"/>
+				</a>
+				<button type="button" id="add-book">Add Book</button>
+				<button type="button" id="show-read">Only Read</button>
+				<a href="https://github.com/deusbalatro" target="_blank" rel="noreferrer noopener">
+					<img src="github-mark-white.svg" width="50" height="50"/>
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div id="form-modal" class="modal">
+				<div class="modal-content">
+					<span class="close">&times;</span>
+					<form id="book-form">
+						<label for="book-id">Book ID</label>
+						<input type="text" id="book-id" name="book-id" placeholder="It will be generated Automatically" readonly/>
+						<label for="title">Title</label>
+						<input type="text" id="title" name="title"/>
+						<label for="author">Author</label>
+						<input type="text" id="author" name="author" />
+						<label for="pages">Pages</label>
+						<input type="number" id="pages" name="pages"/>
+						<label for="read">Have you read?</label>
+						<input type="checkbox" id="read" name="read"/>
+						
+						<button type="submit" form="book-form">Add</button>
+					</form>
+				</div>
+			</div>
+			<div class="book-list">
+			</div>
+		</div>
+
+
+		<script src="script.js"></script>
+	</body>
+</html>
